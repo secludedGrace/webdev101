@@ -169,7 +169,7 @@
 
 <section class="answer">
 
-	![]("https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/4a.png")
+	![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/4a.png)
 
 	(i) Because the parseInt() function parses a string argument and returns an integer of the specified radix which in this case is not specified so it spills out NaN.
 
@@ -193,7 +193,7 @@
 
 <section class="answer">
 
-![]("https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/4b.png")
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/4b.png)
 
 
 </section>
