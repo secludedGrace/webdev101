@@ -167,11 +167,36 @@
 
 <h3 id="Q4a">(a)</h3>
 
-  
+<section class="answer">
+
+	![]("https://github.com/secludedGrace/webdev101/blob/master/ss/4a.png")
+
+	(i) Because the parseInt() function parses a string argument and returns an integer of the specified radix which in this case is not specified so it spills out NaN.
+
+	Syntax: parseInt(string, radix);
+
+	NaN stands for 'Not a Number'. If the first character of the string cannot be converted into a number, NaN is returned
+
+	(ii) In this case, the radix is not defined and the first character is a number, so by convention/default JavaScript assumes the radix is 10(decimal).Also, if parseInt encounters a character that is not a numeral in the specified radix, it ignores it and all succeeding characters and returns the integer value parsed up to that point. That's why 12 is returned here.
+
+	(iii) In this case, the string is specified as '1010' and the radix is 2. As a result, parseInt() returns the integer value of '1010' in base 2.
+
+	(iv) This is not the same as (ii) because in (ii) the first character of the string can be converted into a number, but here in 'hi5' it's not the case, so it returns NaN.
+
+	(v) parseInt('3.145Adeeb) - returns upto the character that is numeral in the specified radix.
+
+	(vi) parseFloat('Adeeb2112') - returns NaN since first character is not a numeral.
+
+</section>
 
 <h3 id="Q4b">(b)</h3>
 
-  
+<section class="answer">
+
+![]("https://github.com/secludedGrace/webdev101/blob/master/ss/4b.png")
+
+
+</section>
 
 <h3 id="Q4c">(c)</h3>
 
