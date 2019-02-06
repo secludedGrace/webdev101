@@ -94,7 +94,8 @@
 
 <section class="answer">
 
-#### The CSS selectors are ' #RelatedItems ' and ' .graphDrawing '. #RelatedItems is of type _id_ and .graphDrawing is of type _class_.
+
+	 The CSS selectors are ' #RelatedItems ' and ' .graphDrawing '. #RelatedItems is of type _id_ and .graphDrawing is of type _class_.
 * #### CSS Properties
 	* ##### padding-top
 	* ##### max-height
