@@ -3,12 +3,14 @@
 #### NetID: qz6928
 
 <style>
-    #Q1::first-letter{color:blue;}
-    #Q2::first-letter{color:blue;}
-    #Q3::first-letter{color:blue;}
-    #Q4::first-letter{color:blue;}
-    #Q5::first-letter{color:blue;}
-    .content-style{background-color:PaleGreen}
+    #Q1::first-letter {color: blue;}
+    #Q2::first-letter {color: blue;}
+    #Q3::first-letter {color: blue;}
+    #Q4::first-letter {color: blue;}
+    #Q5::first-letter {color: blue;}
+    .content-style {background-color: Linen;}
+    .answer {border: solid black; background-color: DarkSlateGrey;}
+    h2:hover {background-color: LightGreen; color: SlateBlue;}
 </style>
 
 <ul class="content-style">
@@ -74,16 +76,18 @@
 
 </section>
 
-<section class="answer">
-
 <h3 id="Q1b">(b)</h3>
 
-#### No, you cannot use the same _id_ attribute on more than one element in an **HTML** document. This is because of the fact that we use _id_ attributes as targets for links since one attribute cannot refer to more than one link within the same **HTML** document. On the other hand, you can use the same _class_ on multiple elements in a document. This can be helpful for styling since the same styles can be reused and if needed can be overridden with a new class to make further modifications.
+<section class="answer">
+
+    No, you cannot use the same _id_ attribute on more than one element in an **HTML** document. This is because of the fact that we use _id_ attributes as targets for links since one attribute cannot refer to more than one link within the same **HTML** document. On the other hand, you can use the same _class_ on multiple elements in a document. This can be helpful for styling since the same styles can be reused and if needed can be overridden with a new class to make further modifications.
 
 </section>
 
 <h3 id="Q1c">(c)</h3>
+<section class="answer"></section>
 <h3 id="Q1d">(d)</h3>
+<section class="answer"></section>
 
 <h2 id="Q2"> Question 2. </h2>
 <h3 id="Q2a">(a)</h3>
@@ -113,23 +117,48 @@
 </section>
 
 <h3 id="Q2b">(b)</h3>
+<section class="answer">
 
-#### In the CSS fragment there are two descendant combinators **'article figcaption'** and 'a.navbar-brand img'. The article and figcaption elements is creating a self-contained reusable composition of a figure with a caption having a font-size of 18px and text-align to center. The anchor element a is using the _class_ navbar-brand and combined with the img element having all the properties and values specified in order to style a certain branding logo within a navigation bar.
+     In the CSS fragment there are two descendant combinators **'article figcaption'** and 'a.navbar-brand img'. The article and figcaption elements is creating a self-contained reusable composition of a figure with a caption having a font-size of 18px and text-align to center. The anchor element a is using the _class_ navbar-brand and combined with the img element having all the properties and values specified in order to style a certain branding logo within a navigation bar.
+
+</section>
 
 <h2 id="Q3"> Question 3. </h2>
   
 <h3 id="Q3a">(a)</h3>
 
-<h3 id="Q3b">(b)</h3>
-  
+<section class="answer">
+	
+	#Q1::first-letter {color: blue;}
+    #Q2::first-letter {color: blue;}
+    #Q3::first-letter {color: blue;}
+    #Q4::first-letter {color: blue;}
+    #Q5::first-letter {color: blue;}
 
+</section>
+
+<h3 id="Q3b">(b)</h3>
+  <section class="answer">
+
+    .content-style {background-color:PaleGreen;}
+
+  </section>
 <h3 id="Q3c">(c)</h3>
 
+<section class="answer">
+
+    .answer {border: solid black; background-color: DarkSlateGrey;}
+
+</section>
   
 
 <h3 id="Q3d">(d)</h3>
 
+<section class="answer">
+    
+    h2:hover {background-color: LightGreen; color: SlateBlue;}
   
+</section>
 
 <h2 id="Q4"> Question 4. </h2>
 
