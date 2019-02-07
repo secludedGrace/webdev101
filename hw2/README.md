@@ -201,30 +201,54 @@
 
 <h3 id="Q4c">(c)</h3>
 
+<section class="answer">
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/4c.png)
+
+	We bother using two string delimiters so that we don't have to use backslash(\) all the time and we can combine both delimiters within the same sentence according to the needs.
+
+	(i) The first test output works.
+	(ii) The second test output (test2) doesn't work because there is an uneven number of single quote(') that leaves one open ' and causes error.
+	(iii) test3 works due to the usage of escape character (\) that identifies the second ' as an apostrophe.
+
+</section>
   
 
 <h3 id="Q4d">(d)</h3>
 
-  
+<section class="answer">
+
+	(i) toUpperCase() function converts the name into all uppercase
+
+	(ii) toLowerCase() function converts the name into all lowercase
+
+	The last two lines uses the include() function to check if the name includes any uppercase 'A' or lowercase 'i' and returns true or false accordingly.
+</section>
 
 <h3 id="Q4e">(e)</h3>
 
-  
+<section class="answer"></section>
 
 <h2 id="Q5"> Question 5. </h2>
 
-  
+
 
 <h3 id="Q5a">(a)</h3>
 
-  
+<section class="answer">
+
+	(i) the split() function splits the sentence into array of strings based on the argument as seperator which is a whitespace " " in this case.
+
+</section>
 
 <h3 id="Q5b">(b)</h3>
 
-  
+<section class="answer"></section>
 
 <h3 id="Q5c">(c)</h3>
 
-  
+<section class="answer"></section>
 
 <h3 id="Q5d">(d)</h3>
+
+<section class="answer"></section>
