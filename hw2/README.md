@@ -260,7 +260,13 @@
 
 	(ii) Each of these calls pushes the given arguments which are strings to the myArray basically adding words to the sentence.
 
-	(iii)
+	(iii) Join replaced all the whitespaces with the given argument, in this case an underscore(_).
+
+	(iv) the tempIndex variable stores the index of the string entered as an argument from myArray using the indexOf() function.
+
+	(v) Using the index from previous tempIndex variable the string value of the index is changed to 'college'.
+
+	(vi) The pop() function removes the last element from the array.
 
 </section>
 
