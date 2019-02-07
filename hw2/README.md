@@ -136,12 +136,24 @@
     #Q4::first-letter {color: blue;}
     #Q5::first-letter {color: blue;}
 
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/3a_1.png)
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/3a_2.png)
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/3a_3.png)
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/3a_4.png)
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/3a_5.png)
+
 </section>
 
 <h3 id="Q3b">(b)</h3>
   <section class="answer">
 
     .content-style {background-color:PaleGreen;}
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/3b.png)
 
   </section>
 <h3 id="Q3c">(c)</h3>
@@ -150,20 +162,19 @@
 
     .answer {border: solid black; background-color: DarkSlateGrey;}
 
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/3c.png)
+
 </section>
   
-
 <h3 id="Q3d">(d)</h3>
 
 <section class="answer">
     
-    h2:hover {background-color: LightGreen; color: SlateBlue;}
-  
+    h2:hover {background-color: LightGreen; color: SlateBlue;} 
+
 </section>
 
 <h2 id="Q4"> Question 4. </h2>
-
-  
 
 <h3 id="Q4a">(a)</h3>
 
@@ -218,6 +229,8 @@
 
 <section class="answer">
 
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/4d.png)
+
 	(i) toUpperCase() function converts the name into all uppercase
 
 	(ii) toLowerCase() function converts the name into all lowercase
@@ -227,7 +240,11 @@
 
 <h3 id="Q4e">(e)</h3>
 
-<section class="answer"></section>
+<section class="answer">
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/4e.png)
+
+</section>
 
 <h2 id="Q5"> Question 5. </h2>
 
@@ -237,7 +254,13 @@
 
 <section class="answer">
 
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/5a.png)
+
 	(i) the split() function splits the sentence into array of strings based on the argument as seperator which is a whitespace " " in this case.
+
+	(ii) Each of these calls pushes the given arguments which are strings to the myArray basically adding words to the sentence.
+
+	(iii)
 
 </section>
 
