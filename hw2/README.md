@@ -272,12 +272,52 @@
 
 <h3 id="Q5b">(b)</h3>
 
-<section class="answer"></section>
+<section class="answer">
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/5b.png)
+
+	(i) The upper(xString) function takes a string as an argument and returns the string in all uppercase.
+
+	(ii) The map basically taking all the split strings from the previous array, switching it to uppercase and putting it in another array myArray3.
+
+	(iii) returns -1 if lowercase x is alphabetically lower than lowecase y and returns 1 otherwise. If they're the same returns 0. This is just to compare two elements in the array and determine whether they're ordered.
+
+	(iv) The reason for passing this function is because the sort() function uses the return value of noCaseSort() function and sorts them in alphabetical order.
+
+</section>
 
 <h3 id="Q5c">(c)</h3>
 
-<section class="answer"></section>
+<section class="answer">
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/5c.png)
+
+</section>
 
 <h3 id="Q5d">(d)</h3>
 
-<section class="answer"></section>
+<section class="answer">
+
+	function max2secCompare(x, y) {
+		if (x.max2sec < y.max2sec) {
+			return -1;
+		} else {
+			return 1;
+		}
+		return 0;
+	}
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/5d_1.png)
+
+	function distanceCompare(x, y) {
+		if (x.distance < y.distance) {
+			return -1;
+		} else {
+			return 1;
+		}
+  		return 0;
+}
+
+![](https://github.com/secludedGrace/webdev101/blob/hw2/hw2/ss/5d_2.png)
+
+</section>
